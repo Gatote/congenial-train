@@ -1,0 +1,15 @@
+D:\Users\Gatote\Desktop\ejercicio7\bin\Debug\net7.0\ejercicio7.exe
+D:\Users\Gatote\Desktop\ejercicio7\bin\Debug\net7.0\ejercicio7.deps.json
+D:\Users\Gatote\Desktop\ejercicio7\bin\Debug\net7.0\ejercicio7.runtimeconfig.json
+D:\Users\Gatote\Desktop\ejercicio7\bin\Debug\net7.0\ejercicio7.dll
+D:\Users\Gatote\Desktop\ejercicio7\bin\Debug\net7.0\ejercicio7.pdb
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.csproj.AssemblyReference.cache
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.AssemblyInfoInputs.cache
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.AssemblyInfo.cs
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.csproj.CoreCompileInputs.cache
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.dll
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\refint\ejercicio7.dll
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.pdb
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ejercicio7.genruntimeconfig.cache
+D:\Users\Gatote\Desktop\ejercicio7\obj\Debug\net7.0\ref\ejercicio7.dll
