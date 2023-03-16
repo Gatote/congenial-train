@@ -1,0 +1,15 @@
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\bin\Debug\net7.0\ejercicio11.exe
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\bin\Debug\net7.0\ejercicio11.deps.json
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\bin\Debug\net7.0\ejercicio11.runtimeconfig.json
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\bin\Debug\net7.0\ejercicio11.dll
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\bin\Debug\net7.0\ejercicio11.pdb
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.csproj.AssemblyReference.cache
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.AssemblyInfoInputs.cache
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.AssemblyInfo.cs
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.dll
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\refint\ejercicio11.dll
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.pdb
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ejercicio11.genruntimeconfig.cache
+C:\Users\tu_ma\OneDrive\Escritorio\TRSF\sesion13\ejercicio11\obj\Debug\net7.0\ref\ejercicio11.dll
